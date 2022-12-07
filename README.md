@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 지적장애인 위치추적 실종방지 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
