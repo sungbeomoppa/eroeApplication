@@ -1,0 +1,261 @@
+
+.topb{
+    width: 100%;
+    background-color: #ffffff;
+    height: 55px;
+    border-bottom: 1px solid rgba(3, 144, 0, 0.3);
+    display: flex;
+}
+.ero{
+    width: 372px;
+  margin: auto;
+  margin-top: -5px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 40px;
+  color: #039000;
+  align-items: flex-end;
+  font-family: "Kaisei HarunoUmi", serif;
+
+}
+.iddd{
+  font-size: large;
+  font-weight: 400;
+  color :#039000;
+}
+.signup_txt {
+
+width: 100%;
+height: 27px;
+left : 7px;
+margin-left: 25px;
+
+font-family: 'Kaisei HarunoUmi';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 29px;
+display: flex;
+
+color: #039000;
+}
+.standard{
+    width: 80%;
+    height: 100%;
+    margin: 35px auto 0 auto;
+}
+
+.sgid_txt {
+width: 100%;
+height: 25px;
+font-family: 'Kaisei HarunoUmi';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 0;
+display: flex;
+align-items: flex-end;
+
+color: #039000;
+}
+
+.sgid_box {
+    box-sizing: border-box;
+    width: 100%;
+    height: 45px;
+    margin: 4px auto;
+    background: #ffffff;
+    border: 1px solid rgba(3, 144, 0, 0.3);
+}
+
+.sgpassword_txt {
+
+width: 100%;
+height: 25px;
+font-family: 'Kaisei HarunoUmi';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 0;
+display: flex;
+align-items: flex-end;
+
+color: #039000;
+}
+
+.sgpassword_box {
+    box-sizing: border-box;
+    width: 100%;
+    height: 45px;
+    background: #ffffff;
+    border: 1px solid rgba(3, 144, 0, 0.3);
+  }
+
+
+.passwordconfirm_txt {
+
+width: 100%;
+height: 25px;
+
+
+font-family: 'Kaisei HarunoUmi';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 0;
+display: flex;
+align-items: flex-end;
+
+color: #039000;
+}
+
+.passwordconfirm_box {
+    box-sizing: border-box;
+    width: 100%;
+    height: 45px;
+    margin: 4px auto;
+    background: #ffffff;
+    border: 1px solid rgba(3, 144, 0, 0.3);
+  }
+
+
+.email_txt {
+
+width: 100%;
+height: 25px;
+left: 31px;
+top: 339px;
+
+font-family: 'Kaisei HarunoUmi';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 0;
+display: flex;
+align-items: flex-end;
+
+color: #039000;
+}
+
+.email_box {
+    box-sizing: border-box;
+    width: 100%;
+    height: 45px;
+    margin: 4px auto;
+    background: #ffffff;
+    border: 1px solid rgba(3, 144, 0, 0.3);
+  }
+
+
+.birth_txt {
+
+width: 100%;
+height: 25px;
+
+
+font-family: 'Kaisei HarunoUmi';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 0;
+display: flex;
+align-items: flex-end;
+
+color: #039000;
+}
+
+.birth_box {
+    box-sizing: border-box;
+    width: 100%;
+    height: 45px;
+    margin: 4px auto;
+    background: #ffffff;
+    border: 1px solid rgba(3, 144, 0, 0.3);
+  }
+
+
+.phone_txt {
+
+width: 100%;
+height: 25px;
+left: 31px;
+top: 485px;
+
+font-family: 'Kaisei HarunoUmi';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 0;
+display: flex;
+align-items: flex-end;
+
+color: #039000;
+}
+
+.phone_box {
+    box-sizing: border-box;
+    width: 100%;
+    height: 45px;
+    margin: 4px auto;
+    background: #ffffff;
+    border: 1px solid rgba(3, 144, 0, 0.3);
+  }
+    
+.name_txt {
+
+    width: 100%;
+    height: 25px;
+    
+    font-family: 'Kaisei HarunoUmi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 0;
+    display: flex;
+    align-items: flex-end;
+    
+    color: #039000;
+    }
+
+.name_box {
+    box-sizing: border-box;
+    width: 100%;
+    height: 45px;
+    margin: 4px auto;
+    background: #ffffff;
+    border: 1px solid rgba(3, 144, 0, 0.3);
+  }
+
+
+.sub_button {
+
+    width: 100%;
+    height: 45px;
+    margin: 4px auto;
+    background: rgba(3, 144, 0, 0.2);
+    color: #039000;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    padding-top: 5px;
+    text-align: center;
+    border: none;
+}
+.center{
+	width: 110px; 
+	margin: 0 auto;
+}
+.sub_button2 {
+
+  width: 75px;
+  height: 20px;
+  background: rgba(3, 144, 0, 0.2);
+  color: #039000;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  padding-top: 5px;
+  text-align: center;
+  border: none;
+  border-radius: 15px ;
+}

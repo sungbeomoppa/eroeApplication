@@ -1,0 +1,78 @@
+.stand {
+  width: 95%;
+  height: 100%;
+  min-height: 100%;
+  margin: 2.9% auto;
+  margin-bottom: 0px;
+}
+
+.map {
+  width: 100%;
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-width: medium;
+  border-color: #d8d8d8;
+}
+
+.human {
+  width: calc(100%-1px);
+  height: 100px;
+  background-color: #29cc4c;
+  margin: 5% auto;
+  margin-bottom: 0px;
+  border: 2px solid #a77405;
+  border-radius: 20px;
+}
+
+.call {
+  width: 100%;
+  height: 70px;
+  position: fixed;
+  bottom: 0;
+  font-family: "Julee";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+
+  color: #039000;
+}
+
+.user_add_button {
+  width: 50%;
+  height: 70px;
+  background-color: rgba(3, 144, 0, 0.4);
+  border: none;
+  box-sizing: border-box;
+  padding-top: 10px;
+}
+
+.user_add_button img {
+  width: 24px;
+  height: auto;
+}
+
+.report_button {
+  width: 50%;
+  height: 70px;
+  background-color: rgba(3, 144, 0, 0.3);
+  border: none;
+  box-sizing: border-box;
+  padding-top: 5px;
+}
+
+.report_button img {
+  width: 24px;
+  height: auto;
+}
+
+.but_des {
+  width: 100%;
+}
